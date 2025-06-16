@@ -1,8 +1,8 @@
-# 🌌 Universe Database Project
+# Universe Database Project
 
 This repository contains my completed **PostgreSQL Relational Database** project for the [freeCodeCamp.org Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/).
 
-## 🗃️ Overview
+## Overview
 
 The goal of this project is to create a structured database representing a fictional universe. It includes information about galaxies, stars, planets, and moons, all connected through a relational schema.
 
@@ -14,7 +14,7 @@ The project demonstrates:
 - Normalization and logical relationships between entities
 - Adherence to freeCodeCamp’s validation requirements
 
-## 🧪 Project Requirements
+## Project Requirements
 
 The project satisfies all freeCodeCamp test criteria, including:
 
@@ -26,7 +26,7 @@ The project satisfies all freeCodeCamp test criteria, including:
 - [x] At least 5 tables and required row minimums
 - [x] Constraints like `NOT NULL` and `UNIQUE` applied appropriately
 
-## 🧱 Schema Overview
+## Schema Overview
 
 Here’s a brief summary of the core tables and their relationships:
 
