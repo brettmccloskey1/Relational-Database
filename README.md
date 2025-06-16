@@ -40,7 +40,7 @@ Here’s a brief summary of the core tables and their relationships:
   - `moon_id` (PK), `name`, `planet_id` (FK), `diameter_km`, `is_spherical`, `has_life`
 - *(Optional additional tables may be added for normalization)*
 
-## 💾 How to Run
+## How to Run
 
 1. Make sure PostgreSQL is installed on your system.
 2. Clone this repository:
